@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "ageGroup": null,
+            "Males": 2,
+            "Females": 2
+        },
+        {
+            "ageGroup": "0-9",
+            "Males": 1982,
+            "Females": 1911
+        },
+        {
+            "ageGroup": "10-19",
+            "Males": 2507,
+            "Females": 2490
+        },
+        {
+            "ageGroup": "20-29",
+            "Males": 4035,
+            "Females": 3502
+        },
+        {
+            "ageGroup": "30-39",
+            "Males": 3229,
+            "Females": 2721
+        },
+        {
+            "ageGroup": "40-49",
+            "Males": 2190,
+            "Females": 1891
+        },
+        {
+            "ageGroup": "50-59",
+            "Males": 1796,
+            "Females": 1579
+        },
+        {
+            "ageGroup": "60-69",
+            "Males": 1071,
+            "Females": 956
+        },
+        {
+            "ageGroup": "70-79",
+            "Males": 550,
+            "Females": 470
+        },
+        {
+            "ageGroup": "80-89",
+            "Males": 218,
+            "Females": 230
+        },
+        {
+            "ageGroup": "90+",
+            "Males": 55,
+            "Females": 80
+        }
+    ]
+}
